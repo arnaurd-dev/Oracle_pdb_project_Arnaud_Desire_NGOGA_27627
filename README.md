@@ -65,6 +65,8 @@ The verification query confirms that **`AR_TO_DELETE_PDB_27627`** is successfull
 
 <img width="645" height="145" alt="creation of pluggable database to_be_delete" src="https://github.com/user-attachments/assets/dc5e20cc-2a41-4d08-bc69-829f51409ae8" />
 
+<img width="693" height="352" alt="Deletion OR Dropping" src="https://github.com/user-attachments/assets/bc9b03c3-d330-46d4-836a-9e02553238c6" />
+
 -----
 
 ## ✅ Task 3: Oracle Enterprise Manager Configuration
